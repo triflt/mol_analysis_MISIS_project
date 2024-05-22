@@ -9,3 +9,4 @@ The problem of regression based on the structure of molecules
 | KNN | | |
 | AKNN | | |
 | CatBoost | | |
+| MolecularGraphNeuralNetwork |0.03|6.4|
