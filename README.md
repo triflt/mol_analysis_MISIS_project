@@ -12,7 +12,6 @@ Data up to 99 percentile were taken
 | CatBoost + FE | 0.203 | 2.9 | 37.5% |
 | KNN | 0.05 | 3.1 | 49% |
 | ---------------- | -------- | -------- | -------- |
-| MolecularGraphNeuralNetwork | 0.003 | 6.43 | 79.6% |
-| ??? | --- | --- | --- |
-| ??? | --- | --- | --- |
-| ??? | --- | --- | --- |
+| Molecular GCNConvModel | -0.005 | 3.15 | 55.1% |
+| Molecular TAGConvModel | -0.12 | 3.41 | 39.7% |
+| Molecular ARMAConvModel | -0.133 | 3.44 | 38.1% |
