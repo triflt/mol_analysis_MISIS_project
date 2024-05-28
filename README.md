@@ -1,6 +1,14 @@
 # Regression task on molecular structures
 The problem of regression based on the structure of molecules
 
+- On new descriptors and preproc data from new_descriptors.ipynb:
+**No target changes**
+| Model | R2 | MAE | MAPE |  
+| -------- | -------- | -------- | -------- |
+| Lasso| 0.09 | 5.71 | 98.6%|
+| CatBoost | **0.46** | 4.17 | **34%%** |
+
+- On baseline data:
 Data up to 99 percentile were taken
 | Model | R2 | MAE | MAPE |  
 | -------- | -------- | -------- | -------- |
