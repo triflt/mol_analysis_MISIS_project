@@ -1,6 +1,13 @@
 # Regression task on molecular structures
 The problem of regression based on the structure of molecules
 
+`baseline_graphs.ipynb` - train pipeline with graph-models
+
+`classic_ml.ipynb` - pipeline with classic ML
+
+`new_descriptors.ipynb` - extracting other descriptors for achieving better results
+
+## Results:
 - On new descriptors and preproc data from new_descriptors.ipynb:
 **No target changes**
   
